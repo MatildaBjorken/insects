@@ -1,0 +1,16 @@
+body {
+   background-color: rgb(120, 196, 120);
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+#button {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    opacity: .3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
